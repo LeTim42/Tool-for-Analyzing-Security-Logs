@@ -1,0 +1,16 @@
+{
+  "logs": [
+    {
+      "path": "sample_logs\\linux",
+      "threats": [
+        "brute_force",
+        "admin_login",
+        "file_access",
+        "privilege_escalation"
+      ],
+      "max_lines_per_query": 100
+    }
+  ],
+  "model": "llama3:8b-instruct-q8_0",
+  "context_size": 32768
+}

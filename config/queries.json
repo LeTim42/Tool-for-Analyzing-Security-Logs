@@ -1,0 +1,10 @@
+{
+    "brute_force": "failure failed authentication login password",
+    "admin_login": "admin login successful",
+    "file_access": "failure failed denied deny not exist",
+    "privilege_escalation": "sudo su privilege escalation",
+    "sql_injection": "select union drop insert",
+    "xss_attempt": "alert eval",
+    "port_scan": "port scan sweep",
+    "malware_detection": "trojan malware virus ransomware detected"
+}
